@@ -55,6 +55,7 @@ const skillsData = [
       { name: "MySQL", projects: ["NammaPG", "Vaultera"] },
       { name: "PostgreSQL", projects: ["CMS"] },
       { name: "Hibernate (JPA)", projects: ["NammaPG"] },
+      { name: "Prisma", projects: ["CMS"] },
     ],
   },
   {
